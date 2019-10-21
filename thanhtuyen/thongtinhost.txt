@@ -1,0 +1,4 @@
+Database:	tmb140416_tt15
+Host:	localhost
+Username:	tmb140416_tt15
+Password:	thanhtuyen123456

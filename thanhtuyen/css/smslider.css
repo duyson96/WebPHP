@@ -1,0 +1,155 @@
+.sm_slider {
+  height: 270px;
+  overflow: hidden;
+  position: relative;
+  width:526px;
+}
+.sm_slider ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.sm_slide {
+  color: #3d3d3d;
+  display: none;
+  font-size: 100px;
+  height: 270px;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  visibility: hidden;
+  width: 100%;
+}
+.sm_slide.active {
+  display: block;
+  visibility: visible;
+}
+.sm_slide img {
+  width:98%;
+  height:201px;
+  overflow: hidden;
+}
+
+.sm_prev,
+.sm_next {
+  /*width: 25px;
+  height: 25px;
+  margin: -20px 0 0 0;
+  cursor: pointer;
+  display: block;
+  font-style: normal;
+  opacity: .3;
+  position: absolute;
+  top: 50%;
+  z-index: 999;
+  border-style: solid;
+  border-color: #4e4e4e;
+  border-width: 0px;
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);*/
+}
+
+.sm_prev {
+  border-left-width: 3px;
+  border-top-width: 3px;
+  left: 10px;
+}
+.sm_prev:hover {
+  opacity: 1;
+}
+
+.sm_next {
+  border-right-width: 3px;
+  border-bottom-width: 3px;
+  right: 10px;
+}
+.sm_next:hover {
+  opacity: 1;
+}
+
+.sm_nav {
+  bottom: 0px;
+  clear: both;
+  display: inline-block;
+  overflow: hidden;
+  padding: 5px 0px;
+  position: absolute;
+  right: 0px;
+  z-index: 999;
+}
+
+.sm_nav-item {
+  cursor: pointer;
+  float: left;
+  height: 14px;
+  padding: 4px;
+  width: 14px;
+  z-index: 999;
+  list-style-type: none;
+  font-size: 11px;
+  color: #ccc;
+}
+.sm_nav-item i {
+  display: block;
+  width: 6px;
+  height: 6px;
+  position: relative;
+  top: 5px;
+  left: 4px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+  border-radius: 6px;
+  background-color: #7f7f7f;
+}
+.sm_nav-item.active {
+  cursor: default;
+  color: #7e7e7e;
+}
+.sm_nav-item.active:hover {
+  cursor: default;
+  color: #7e7e7e;
+}
+.sm_nav-item.active i {
+  background-color: #bfbfbf;
+}
+.sm_nav-item:hover i {
+  background: #7f7f7f;
+}
+.sm_nav-item.active:hover i {
+  background-color: #bfbfbf;
+}
+#full-page_slider{height:208px;margin:0 auto;position:relative;width:100%}#full-page_slider .sm_slide{height:404px}.logo.big{height:115px;margin:0 auto 10px;width:300px}#full-page_phrase{color:#7d7d7d;font-size:.8em;font-style:italic;padding:10px;text-align:right;text-shadow:1px 1px 1px #2d2d2d}
+#sm_submenu{clear:both;width:100%;height:101px;}
+#full-page-example .sm_submenu-item
+{
+    color:#ccc;
+    cursor:pointer;
+    float:left;
+    opacity:0.5;
+    font-size:10px;
+    height:100px;margin-right:13px;
+    width:109px;position:relative
+}
+#full-page-example .sm_submenu-item:last-child
+{
+  margin-right:0;
+}
+#full-page-example .sm_submenu-item img
+    {width:109px;height:100px;overflow: hidden;
+    }#full-page-example .sm_submenu-item:hover img{background:#ccc}#full-page-example .sm_submenu-item.last{margin:0}
+    #full-page-example .sm_submenu-item.active
+    {
+      opacity:1;
+    }
+      #full-page-example .sm_submenu-item.active:hover img{background:#4e4e4e}.year{background:#000;top:50px;left:9px;line-height:18px;padding:2px 3px;position:absolute;opacity:.5;-ms-filter:"alpha(opacity=50)";filter:alpha(opacity=50)}#full-page-example .sm_submenu-item.active .year{top:49px;left:8px}
+    #full-page-example .sm_slide.active img
+    {
+        
+    }#fader-demo{padding:0 10px 40px}#iphone{width:280px;height:480px;padding:103px 25px;background:url(../img/stuff/fader/iphone.png) no-repeat;position:relative}#iphone li{list-style:none}.iphone-inner{width:280px;height:480px;overflow:hidden;position:relative}.iphone-screen{width:270px;height:480px;position:absolute;display:none;cursor:pointer}.iphone-screen.active{display:block}#iphone .sm_nav{bottom:95px;right:50%;margin-right:-35px}#first-slider{width:400px;height:200px;color:#c2c2c2;font-size:25px;position:relative;box-shadow:0 0 20px #ccc;top:60px;left:25px}#first-slider ul.sm_slider-inner li{height:200px}#second-slider{width:500px;height:150px;color:#999;font-size:25px;position:relative;box-shadow:0 0 20px #ccc;top:225px;left:425px}#second-slider ul.sm_slider-inner li{height:150px}#two-subMenu{margin:0 25px;text-align:center}#two-subMenu a{border-bottom:1px dashed;margin:0 10px}

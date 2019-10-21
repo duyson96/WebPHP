@@ -1,0 +1,649 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="vi" xml:lang="vi">
+<head>
+    	<meta http-equiv="content-type" content="text/html" charset="utf-8" />	
+    <base href="http://bachdangtraserco.com/" />
+	<title>
+        Công ty cổ phần thương mại và dịch vụ Bạch Đằng    </title>
+    <meta name="description" content="Công ty CP Thương mại và Dịch vụ Bạch Đằng xin gửi lời chào trân trọng và cảm ơn sự tin tưởng, hợp tác của quý khách trong suốt thời gian qua. " />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+    <meta name="author" content="bachdangtraserco"/>
+    <meta name="copyright" content="bachdangtraserco" />
+    <meta name="robots" content="index,follow" />
+    <meta name="geo.region" content="VN-HP" />
+    <meta name="geo.position" content="20.919667;106.677793" />
+    <meta name="ICBM" content="20.919667, 106.677793" />
+    <meta http-equiv="content-language" content="vi"/>    
+    <meta name="dc.description" content="Công ty CP Thương mại và Dịch vụ Bạch Đằng xin gửi lời chào trân trọng và cảm ơn sự tin tưởng, hợp tác của quý khách trong suốt thời gian qua. ">
+    <meta name="dc.keywords" content="">
+    <meta name="dc.subject" content="Công ty cổ phần thương mại và dịch vụ Bạch Đằng">
+    <meta name="dc.created" content="2015-12-04">
+    <meta name="dc.publisher" content="Công ty cổ phần thương mại và dịch vụ Bạch Đằng">
+    <meta name="dc.rights.copyright" content="bachdangtraserco">
+    <meta name="dc.creator.name" content="bachdangtraserco">
+    <meta name="dc.creator.email" content="sales@hpsoft.vn">
+    <meta name="dc.identifier" content="http://bachdangtraserco.com/">
+    <meta name="dc.language" content="vi-VN">
+    <link href="http://bachdangtraserco.com/feed" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+    <link href="http://bachdangtraserco.com/feed" rel="alternate" type="application/atom+xml" title="Atom 1.0">
+    <meta name="keywords" content=""/>    
+         
+        
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+            <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
+        <link rel="stylesheet" type="text/css" href="css/skin-ie7.css">
+            <link href="css/skin.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="css/menu.css">
+    <link href="css/default.css" rel="stylesheet" type="text/css" />
+    <link href="css/animate.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="css/fresco/fresco.css" /> 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.flexisel.js"></script>
+<script type="text/javascript">
+    $(window).load(function() {
+        $(".flexiselDemo1").flexisel({
+            autoPlay: true,
+            visibleItems: 5
+        });                
+    });            
+</script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+    <script src="js/zo2-uncompressed.js" type="text/javascript"></script>
+    <script type="text/javascript">
+         jQuery(document).ready(function(){
+            jQuery("#mobile-button").click(function(){
+                jQuery("#tat").toggle();
+                if(jQuery("#tat").is(":hidden")){
+                    jQuery("#tat").css('display','none');                            
+                    jQuery(this).addClass('collapsed');
+                }
+                else
+                {
+                    jQuery("#tat").css('display','block');
+                    jQuery(this).removeClass('collapsed');                            
+                }        
+            }); 
+        });   
+    </script>
+    <script type="text/javascript">
+        $ZO2(document).ready(function() {
+            /* Mega Menu script block */
+                        var megas = $ZO2('div[class="menusub_mega"]');
+            var _tmp  = Array();
+
+            $ZO2.each(megas, function(key, item) {
+                var id = $ZO2(item).attr('id').split("_");
+                if(id[2] != null) {
+                    var smart = "_" + id[1] + "_" + id[2];
+                    if($ZO2.inArray(smart, _tmp)) {
+                        $ZO2.merge(_tmp, Array(smart));
+                        ZTMenu(smart, "megamenu_close", 'show',
+                            '350',
+                            'hide',
+                            '350',
+                            'ltr');
+                    }
+                }
+            });
+
+            /* Add/remove class hover when mouse enter/mouse leave */
+            $ZO2.each($ZO2('ul#menusys_mega li'), function(i, item) {
+                $ZO2(item).mouseenter(function() {
+                    $ZO2(item).addClass('hover');
+                }).mouseleave(function() {
+                        $ZO2(item).removeClass('hover');
+                    });
+            });
+            
+            /* Fancy Menu script block */
+            
+            /* Accordion menu */
+            $ZO2(document).ready(function() {
+                $ZO2("#zo2-drilldown-menu").mtAccordionMenu({
+                    accordion:true,
+                    speed: 500,
+                    closedSign: 'collapse',
+                    openedSign: 'expand',
+                    mouseType: 0,
+                    easing: 'easeInOutBack'
+                });
+            });
+
+        });
+    </script>      
+    <script type="text/javascript">
+        jQuery(document).ready(function(){                            
+            jQuery('#menu_top > li').hover(function(){
+                jQuery(this).children('.sub_menu').css('display','block');                       
+                },function(){
+                    jQuery(this).children('.sub_menu').css('display','none');    
+            });
+            jQuery("body").append(jQuery("<div><dt/><dd/></div>").attr("id", "progress"));
+                jQuery("#progress").width(100+ "%");
+                jQuery("#progress").width("101%").delay(800).fadeOut(400, function() {
+                jQuery(this).remove();
+            });      
+        });
+        </script>
+                    <script type="text/javascript" src="js/owl.carousel.js"></script>
+            <script>
+                jQuery(document).ready(function($) {
+                    var owl = jQuery('.owl-carousel'); // save reference to variable
+                    owl.owlCarousel({
+                      items:1,
+                      nav:true,
+                      loop:true,
+                      autoplay:true,
+                      autoplayTimeout:3000,
+                      autoplayHoverPause:true
+                    });
+                });
+            </script>            
+                    <script type="text/javascript" src="js/jquery.jcarousel.min.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function() {            
+            jQuery('#third-carousel').jcarousel({
+                vertical: true,
+                auto:3,
+                scroll: 1,
+               animation:'slow',
+                wrap: 'circular',
+            });                       
+        });        
+    </script>                        
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>   				                       
+     
+    <script type="text/javascript">
+        function addorder(id,soluong){
+            jQuery.ajax({
+                cache: false,
+                type:"POST",
+                    url:"http://bachdangtraserco.com/sanpham/addorder_pro",
+                    data: {id : id,soluong : soluong},
+                    success:function(html){
+                        window.location.href="http://bachdangtraserco.com/sanpham/giohang";                              
+                    }
+            });                             
+        }   
+    </script>           
+</head>
+<body>
+ <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/vi_VN/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>     
+    <div id="bg_header">
+        <div class="container wrapper">
+            <script>
+    function changelang(lang)
+    {
+        jQuery.ajax({
+            cache: false,
+            type:"POST",
+            data:{lang : lang},
+            url:"http://bachdangtraserco.com/site/lang",
+            success:function(html){
+                window.location.reload();
+                //window.location='http://bachdangtraserco.com/';
+            }
+        });
+    }
+</script>
+<div class="row">
+    <div id="header_mb">
+        <div id="logo_mb">
+            <a href="http://bachdangtraserco.com/" title="Công ty cổ phần thương mại và dịch vụ Bạch Đằng"><img title="Công ty cổ phần thương mại và dịch vụ Bạch Đằng" alt="Công ty cổ phần thương mại và dịch vụ Bạch Đằng" src="upload/logo.png"></a>
+        </div>
+        <div id="logo_namemb">
+                <p id="logo_namemb1">Công ty cổ phần thương mại và dịch vụ Bạch Đằng</p>
+                <p id="logo_namemb2">Bach Dang trading & service Joint Stock Company</p>        
+        </div>
+        <div id="language_mb">
+            <a onclick="changelang('vi');" title="Tiếng Việt"><img title="Tiếng Việt" alt="Tiếng Việt" src="images/vi.png"></a>
+            <a onclick="changelang('en');" title="English"><img title="English" alt="English" src="images/en.png"></a>
+            <a onclick="changelang('cn');" title="China"><img title="China" alt="China" src="images/cn.png"></a>
+        </div>  
+        <div class="clearfix"></div>
+        <div id="menu_mb" style="position: relative;z-index:10000;">
+            <div id="zt-mainmenu">
+                <div class="zt-navigation hidden-desktop">
+                    <div id="search1">
+                        <form name="frmsearch2" method="POST" action="http://bachdangtraserco.com/site/search">                            
+                            <input type="text" name="ten" value="" />
+                            <input type="submit" name="submit" value="" />                          
+                        </form>
+                        <div class="clear"></div>
+                    </div>       
+                    <a class="btn-navbar hidden-desktop collapsed" id="mobile-button"></a>                    
+                </div>
+                <div class="zt-drillmenu-inner hidden-desktop" id="tat" style="display: none;">
+                    <div class="navbar">
+                        <div class="menusys_drill collapse">
+                            <ul id="zo2-drilldown-menu" class="nav-drilldown">
+                                <li><a href="http://bachdangtraserco.com/"><span class="menusys_name">Trang chủ</span></a></li>
+                                                                        <li><a href="http://bachdangtraserco.com/gioi-thieu-bv49.html" title="Giới thiệu"><span class="menusys_name">Giới thiệu</span></a>
+                                                                                            <ul>
+                                                                                                            <li><a href="http://bachdangtraserco.com/gioi-thieu-chung-bv26.html" title="Giới thiệu chung"><span class="menusys_name">Giới thiệu chung</span></a></li>
+                                                                                                                <li><a href="http://bachdangtraserco.com/so-do-bo-may-to-chuc-bv24.html" title="Sơ đồ bộ máy tổ chức"><span class="menusys_name">Sơ đồ bộ máy tổ chức</span></a></li>
+                                                                                                            
+                                                </ul>
+                                                                                        </li>
+                                                                                <li><a href="http://bachdangtraserco.com/dich-vu-bv52.html" title="Dịch vụ"><span class="menusys_name">Dịch vụ</span></a>
+                                                                                            <ul>
+                                                                                                            <li><a href="http://bachdangtraserco.com/dich-vu-van-tai-bv27.html" title="Dịch vụ vận tải"><span class="menusys_name">Dịch vụ vận tải</span></a></li>
+                                                                                                                <li><a href="http://bachdangtraserco.com/dich-vu-xuat-nhap-khau-bv25.html" title="Dịch vụ xuất nhập khẩu"><span class="menusys_name">Dịch vụ xuất nhập khẩu</span></a></li>
+                                                                                                                <li><a href="http://bachdangtraserco.com/dich-vu-xep-do-va-cho-thue-kho-bai-bv21.html" title="Dịch vụ xếp dỡ và cho thuê kho bãi"><span class="menusys_name">Dịch vụ xếp dỡ và cho thuê kho bãi</span></a></li>
+                                                                                                            
+                                                </ul>
+                                                                                        </li>
+                                                                                <li><a href="http://bachdangtraserco.com/san-pham.html" title="Sản phẩm"><span class="menusys_name">Sản phẩm</span></a></li>
+                                        <li><a href="http://bachdangtraserco.com/video.html" title="Video"><span class="menusys_name">Video</span></a></li>
+                                                                                <li><a href="http://bachdangtraserco.com/tin-tuc-bv48.html" title="Tin tức"><span class="menusys_name">Tin tức</span></a>
+                                                                                    </li>
+                                                                                <li><a href="http://bachdangtraserco.com/tuyen-dung-bv46.html" title="Tuyển dụng"><span class="menusys_name">Tuyển dụng</span></a>
+                                                                                    </li>
+                                                                            
+                                                                    <li><a href="http://bachdangtraserco.com/thu-vien-anh.html" title="Thư viện ảnh"><span class="menusys_name">Thư viện ảnh</span></a></li>
+                        <li><a href="http://bachdangtraserco.com/lien-he.html" title="Liên hệ"><span class="menusys_name">Liên hệ</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </div>
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="header">        
+            <div id="logo"><a href="http://bachdangtraserco.com/" title="Công ty cổ phần thương mại và dịch vụ Bạch Đằng"><img src="upload/logo.png" title="Công ty cổ phần thương mại và dịch vụ Bạch Đằng" alt="Công ty cổ phần thương mại và dịch vụ Bạch Đằng" /></a></div>
+            <div id="logo_name">
+                <p id="logo_name1">Công ty cổ phần thương mại và dịch vụ Bạch Đằng</p>
+                <p id="logo_name2">Bach Dang trading & service Joint Stock Company</p>        
+            </div>  
+            <div id="language">
+                <a onclick="changelang('vi');" title="Tiếng Việt"><img title="Tiếng Việt" alt="Tiếng Việt" src="images/vi.png"></a>
+                <a onclick="changelang('en');" title="English"><img title="English" alt="English" src="images/en.png"></a>
+                <a onclick="changelang('cn');" title="China"><img title="China" alt="China" src="images/cn.png"></a>
+            </div> 
+            <div id="search">
+                <form name="frmsearch" method="POST" action="http://bachdangtraserco.com/site/search">
+                    <input type="text" name="ten" value="" placeholder="Tìm kiếm nhanh">
+                    <input type="submit" name="submit" value="">
+                </form>    
+            </div>        
+            <div id="menu">                                
+                    <ul id="menu_top">
+                        <li><a href="http://bachdangtraserco.com/" title="Công ty cổ phần thương mại và dịch vụ Bạch Đằng">Trang chủ</a></li>
+                                                            <li><a href="http://bachdangtraserco.com/gioi-thieu-bv49.html" title="Giới thiệu">Giới thiệu</a>
+                                                                                    <ul class="sub_menu">
+                                                                                                    <li><a href="http://bachdangtraserco.com/gioi-thieu-chung-bv26.html" title="Giới thiệu chung">Giới thiệu chung</a></li>
+                                                                                                        <li><a href="http://bachdangtraserco.com/so-do-bo-may-to-chuc-bv24.html" title="Sơ đồ bộ máy tổ chức">Sơ đồ bộ máy tổ chức</a></li>
+                                                                                                </ul>
+                                                                                </li>
+                                                                        <li><a href="http://bachdangtraserco.com/dich-vu-bv52.html" title="Dịch vụ">Dịch vụ</a>
+                                                                                    <ul class="sub_menu">
+                                                                                                    <li><a href="http://bachdangtraserco.com/dich-vu-van-tai-bv27.html" title="Dịch vụ vận tải">Dịch vụ vận tải</a></li>
+                                                                                                        <li><a href="http://bachdangtraserco.com/dich-vu-xuat-nhap-khau-bv25.html" title="Dịch vụ xuất nhập khẩu">Dịch vụ xuất nhập khẩu</a></li>
+                                                                                                        <li><a href="http://bachdangtraserco.com/dich-vu-xep-do-va-cho-thue-kho-bai-bv21.html" title="Dịch vụ xếp dỡ và cho thuê kho bãi">Dịch vụ xếp dỡ và cho thuê kho bãi</a></li>
+                                                                                                </ul>
+                                                                                </li>
+                                                                        <li><a href="http://bachdangtraserco.com/san-pham.html" title="Sản phẩm">Sản phẩm</a></li>
+                                    <li><a href="http://bachdangtraserco.com/video.html" title="Video">Video</a></li>
+                                                                        <li><a href="http://bachdangtraserco.com/tin-tuc-bv48.html" title="Tin tức">Tin tức</a>
+                                                                            </li>
+                                                                        <li><a href="http://bachdangtraserco.com/tuyen-dung-bv46.html" title="Tuyển dụng">Tuyển dụng</a>
+                                                                            </li>
+                                                                    
+                        <li><a href="http://bachdangtraserco.com/thu-vien-anh.html" title="Thư viện ảnh">Thư viện ảnh</a></li>
+                        <li><a href="http://bachdangtraserco.com/lien-he.html" title="Liên hệ">Liên hệ</a></li>
+                    </ul>
+                    <script type="text/javascript">
+                         jQuery(document).ready(function(){                            
+                            jQuery('.sub_menu > li').hover(function(){
+                                jQuery(this).children('.sub_menu_hai').css('display','block');                       
+                                },function(){
+                                    jQuery(this).children('.sub_menu_hai').css('display','none');    
+                            });            
+                          });  
+                    </script>                
+            </div>        
+    </div>
+</div>   
+        </div>
+    </div>
+    <div id="slider">        
+                                                    
+                                    
+    <div class="owl-carousel">                
+         
+            <div>
+                <img src="upload/slider4.jpg" />                
+            </div>    
+             
+            <div>
+                <img src="upload/slider3.JPG" />                
+            </div>    
+             
+            <div>
+                <img src="upload/slider2.jpg" />                
+            </div>    
+             
+            <div>
+                <img src="upload/slider.png" />                
+            </div>    
+                                    
+    </div>
+                     
+                        
+    </div>     
+    <div class="container wrapper">    
+        <div class="row">   
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="right">         
+                	<div id="category">
+	    <div class="row">  
+	    		    		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+		            <div class="category_item">
+		                <a href="http://bachdangtraserco.com/dich-vu-van-tai-bv27.html" class="category_item_img" title="Dịch vụ vận tải">
+		                    <span class="s-dream">
+		                        <img title="Dịch vụ vận tải" alt="Dịch vụ vận tải" src="upload/144125467776053437881_thumb.jpg">
+		                    </span>
+		                </a>
+		                <a href="http://bachdangtraserco.com/dich-vu-van-tai-bv27.html" class="category_item_name" title="Dịch vụ vận tải">Dịch vụ vận tải</a>
+		                <p>Công ty Bạch Đằng cung cấp các phương thức vận tải đường thủy, đường bộ,...</p>
+		            </div>
+		        </div>      
+	    			    		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+		            <div class="category_item">
+		                <a href="http://bachdangtraserco.com/dich-vu-xuat-nhap-khau-bv25.html" class="category_item_img" title="Dịch vụ xuất nhập khẩu">
+		                    <span class="s-dream">
+		                        <img title="Dịch vụ xuất nhập khẩu" alt="Dịch vụ xuất nhập khẩu" src="upload/logistics-Dollarphotoclub_69471103_thumb.jpg">
+		                    </span>
+		                </a>
+		                <a href="http://bachdangtraserco.com/dich-vu-xuat-nhap-khau-bv25.html" class="category_item_name" title="Dịch vụ xuất nhập khẩu">Dịch vụ xuất nhập khẩu</a>
+		                <p>Với nhiều năm kinh nghiệm về lĩnh vực xuất khẩu, nhập khẩu và với đội ngũ...</p>
+		            </div>
+		        </div>      
+	    			    		<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+		            <div class="category_item">
+		                <a href="http://bachdangtraserco.com/dich-vu-xep-do-va-cho-thue-kho-bai-bv21.html" class="category_item_img" title="Dịch vụ xếp dỡ và cho thuê kho bãi">
+		                    <span class="s-dream">
+		                        <img title="Dịch vụ xếp dỡ và cho thuê kho bãi" alt="Dịch vụ xếp dỡ và cho thuê kho bãi" src="upload/IMG_09951_thumb.JPG">
+		                    </span>
+		                </a>
+		                <a href="http://bachdangtraserco.com/dich-vu-xep-do-va-cho-thue-kho-bai-bv21.html" class="category_item_name" title="Dịch vụ xếp dỡ và cho thuê kho bãi">Dịch vụ xếp dỡ và cho thuê kho bãi</a>
+		                <p>Công ty Bạch Đằng cung cấp dịch vụ xếp dỡ và kho bãi với dịch vụ tốt nhất...</p>
+		            </div>
+		        </div>      
+	    		                         	        
+	    </div>    
+	</div> 
+      
+<div id="sanpham_home">
+	<a href="http://bachdangtraserco.com/san-pham.html">
+		Sản phẩm của Bạch Đằng		</a>
+	<div class="row">
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">			
+					<div class="sanpham_item">
+						<a href="http://bachdangtraserco.com/quang-sat-sp16.html" class="sanpham_item_img" title="Quặng sắt"><img src="upload/IMG_0424_thumb.JPG" title="Quặng sắt" alt="Quặng sắt"></a>
+						<a href="http://bachdangtraserco.com/quang-sat-sp16.html" class="sanpham_item_name" title="Quặng sắt">Quặng sắt</a>
+					</div>
+				</div>
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">			
+					<div class="sanpham_item">
+						<a href="http://bachdangtraserco.com/kim-loai-phe-lieu-sp15.html" class="sanpham_item_img" title="Kim loại phế liệu"><img src="upload/4_thumb.JPG" title="Kim loại phế liệu" alt="Kim loại phế liệu"></a>
+						<a href="http://bachdangtraserco.com/kim-loai-phe-lieu-sp15.html" class="sanpham_item_name" title="Kim loại phế liệu">Kim loại phế liệu</a>
+					</div>
+				</div>
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">			
+					<div class="sanpham_item">
+						<a href="http://bachdangtraserco.com/da-voi-sp12.html" class="sanpham_item_img" title="Đá vôi"><img src="upload/DA_1x2_thumb.JPG" title="Đá vôi" alt="Đá vôi"></a>
+						<a href="http://bachdangtraserco.com/da-voi-sp12.html" class="sanpham_item_name" title="Đá vôi">Đá vôi</a>
+					</div>
+				</div>
+				<div class='clearfix'></div>				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">			
+					<div class="sanpham_item">
+						<a href="http://bachdangtraserco.com/da-dolomite-sp11.html" class="sanpham_item_img" title="Đá dolomite"><img src="upload/IMG_0387_thumb.JPG" title="Đá dolomite" alt="Đá dolomite"></a>
+						<a href="http://bachdangtraserco.com/da-dolomite-sp11.html" class="sanpham_item_name" title="Đá dolomite">Đá dolomite</a>
+					</div>
+				</div>
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">			
+					<div class="sanpham_item">
+						<a href="http://bachdangtraserco.com/than-da-sp10.html" class="sanpham_item_img" title="Than đá"><img src="upload/Than_đá_thumb.jpg" title="Than đá" alt="Than đá"></a>
+						<a href="http://bachdangtraserco.com/than-da-sp10.html" class="sanpham_item_name" title="Than đá">Than đá</a>
+					</div>
+				</div>
+								<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">			
+					<div class="sanpham_item">
+						<a href="http://bachdangtraserco.com/da-trang-sp9.html" class="sanpham_item_img" title="Đá trắng"><img src="upload/8_thumb.JPG" title="Đá trắng" alt="Đá trắng"></a>
+						<a href="http://bachdangtraserco.com/da-trang-sp9.html" class="sanpham_item_name" title="Đá trắng">Đá trắng</a>
+					</div>
+				</div>
+				<div class='clearfix'></div>	</div>
+</div>            </div>   
+        </div>  
+    </div>
+    <link rel="stylesheet" type="text/css" href="css/fresco/fresco.css" /> 
+<script type="text/javascript" src="js/fresco/fresco.js"></script>
+<div id="bg_lienhe_h">
+    <div class="container wrapper" id="bg_lienhe">
+        <p>
+            Hợp tác để cùng thành công        </p>
+        <a href="http://bachdangtraserco.com/lien-he.html" title="Liên hệ">
+            Liên hệ chúng tôi        </a>
+    </div>
+</div> 
+<div class="container wrapper">
+    <div id="gallary">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" id="vect">
+                                    <a href="http://bachdangtraserco.com/ve-chung-toi-7.html" class="vect_name" title="Về chúng tôi">Về chúng tôi</a>
+                    <a href="http://bachdangtraserco.com/ve-chung-toi-7.html" id="vect_img" title="Về chúng tôi"><img alt="Về chúng tôi" title="Về chúng tôi" src="upload/Mr_Tien_thumb.JPG"></a>
+                    <p>Công ty CP Thương mại và Dịch vụ Bạch Đằng xin gửi lời chào trân trọng và cảm ơn sự tin tưởng, hợp tác của quý khách trong suốt thời gian qua. Công ty CP Thương mại và dich vụ Bạch Đằng hoạt động kinh doanh trong các lĩnh vực vận tải hàng hóa: bằng đường bộ, đường thủy nội địa và vận tải quốc tế. Kinh doanh dịch vụ đại lý vận tải, đóng tàu và các kết cấu nổi, sửa chữa tàu biển, thương mai, sản xuất vật liệu xây dựng, bốc xếp, cho thuê kho bãi. Ngoài ra, công ty còn hoạt động trong lĩnh vực thươ...</p>
+                    <a href="http://bachdangtraserco.com/ve-chung-toi-7.html" id="vect_read" title="Về chúng tôi">
+                        Xem chi tiết                        
+                    </a>
+                                </div>  
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" id="thuvienanh">
+                <a href="http://bachdangtraserco.com/thu-vien-anh.html" class="vect_name" title="Thư viện ảnh">Thư viện ảnh</a>
+                                    <div class="row">
+                                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 thuvien_item">
+                                <a href="upload/thuvien6.png" class='fresco' data-fresco-group='example' data-fresco-caption="Hình ảnh 6"><img title="Hình ảnh 6" alt="Hình ảnh 6" src="upload/thuvien6_thumb.png"></a>
+                            </div>   
+                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 thuvien_item">
+                                <a href="upload/thuvien5.png" class='fresco' data-fresco-group='example' data-fresco-caption="Hình ảnh 5"><img title="Hình ảnh 5" alt="Hình ảnh 5" src="upload/thuvien5_thumb.png"></a>
+                            </div>   
+                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 thuvien_item">
+                                <a href="upload/thuvien4.png" class='fresco' data-fresco-group='example' data-fresco-caption="Hình ảnh 4"><img title="Hình ảnh 4" alt="Hình ảnh 4" src="upload/thuvien4_thumb.png"></a>
+                            </div>   
+                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 thuvien_item">
+                                <a href="upload/thuvien3.png" class='fresco' data-fresco-group='example' data-fresco-caption="Hình ảnh 3"><img title="Hình ảnh 3" alt="Hình ảnh 3" src="upload/thuvien3_thumb.png"></a>
+                            </div>   
+                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 thuvien_item">
+                                <a href="upload/thuvien2.png" class='fresco' data-fresco-group='example' data-fresco-caption="Hình ảnh 2"><img title="Hình ảnh 2" alt="Hình ảnh 2" src="upload/thuvien2_thumb.png"></a>
+                            </div>   
+                                                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 thuvien_item">
+                                <a href="upload/thuvien1.png" class='fresco' data-fresco-group='example' data-fresco-caption="Hình ảnh 1"><img title="Hình ảnh 1" alt="Hình ảnh 1" src="upload/thuvien1_thumb.png"></a>
+                            </div>   
+                                                                                        
+                    </div>
+                                </div>
+        </div>
+    </div>      
+</div>
+    
+    <div class="container wrapper">
+        <div id="doitac">
+            <p>Đối tác</p>
+        <ul class="flexiselDemo1">
+                            <li><a href="" target="_blank" title="Đối tác 5"><img title="Đối tác 5" alt="Đối tác 5" src="upload/ste_thumb.png"></a></li>
+                                <li><a href="" target="_blank" title="Đối tác 4"><img title="Đối tác 4" alt="Đối tác 4" src="upload/hosting_thumb.png"></a></li>
+                                <li><a href="" target="_blank" title="Đối tác 3"><img title="Đối tác 3" alt="Đối tác 3" src="upload/demoday_thumb.png"></a></li>
+                                <li><a href="" target="_blank" title="Đối tác 2"><img title="Đối tác 2" alt="Đối tác 2" src="upload/dem_thumb.png"></a></li>
+                            
+        </ul>  
+              
+        </div> 
+    </div> 
+    <div id="bg_footer"> 
+        <div class="container wrapper">                                                                          
+               
+<div class="row">                                                                                            
+    <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12" id="footer_left">
+        <div class="footer_item">
+            <div class="footer_item_top">
+                <p>Liên hệ</p>                        
+            </div>
+            <div class="clearfix"></div>
+            <div class="footer_item_main">                                                    
+                <p style="font-size:13px;font-weight:bold;text-transform: uppercase;">Công ty cổ phần thương mại và dịch vụ Bạch Đằng</p>
+                <p>Địa chỉ:&nbsp;số 67A/81, Nguyễn Trãi - Máy Tơ - Ngô Quyền - Hải Phòng</p>                
+                <p>Điện thoại:&nbsp;+84313 569 063 - Fax:&nbsp;+84313 569 064</p>
+                <p>Email:&nbsp;bachdang.traserco@gmail.com</p>                                                
+                                    <p><a href="http://hpsoft.vn" target="_blank">Thiết kế website:&nbsp;</a><a style="color:#f43c44;" target="_blank" href="http://hpsoft.vn">hpsoft.vn</a></p>
+                                                                                            
+            </div>
+        </div>                
+    </div>             
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <div class="footer_item">
+            <div class="footer_item_top">
+                <p>
+                    Chỉ dẫn bản đồ                </p>                        
+            </div>
+            <div class="clearfix"></div>
+            <div class="footer_item_main">
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3728.184833187604!2d106.69393731529816!3d20.864598998737204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDUxJzUyLjUiTiAxMDbCsDQxJzQ2LjAiRQ!5e0!3m2!1svi!2s!4v1458186287692" width="100%" height="170" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+        </div>         
+    </div> 
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            <div class="footer_item">
+                <div class="footer_item_top">
+                    <p>
+                        Thống kê truy cập                    </p>
+                </div>
+                <div class="clearfix"></div>
+                <div class="footer_item_main"> 
+                    <div id="thongke_h">       
+                                                                     
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <p>
+                                    <img src="images/icon_yh.png">&nbsp;&nbsp;
+                                    Trực tuyến                                </p>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <p class="text-right">1</p>
+                            </div>
+                        </div> 
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <p>
+                                    <img src="images/icon_today.png">&nbsp;&nbsp;
+                                    Hôm nay                                            
+                                </p>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <p class="text-right">3</p>
+                            </div>
+                        </div> 
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <p>
+                                    <img src="images/icon_hq.png">&nbsp;&nbsp;
+                                    Hôm qua                                            
+                                </p>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <p class="text-right">10</p>
+                            </div>
+                        </div> 
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <p>
+                                    <img src="images/icon_thang.png">&nbsp;&nbsp;
+                                    Trung bình                                            
+                                </p>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <p class="text-right">3</p>
+                            </div>
+                        </div> 
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <p>
+                                    <img src="images/visit.png">&nbsp;&nbsp;
+                                    Tổng số    
+                                </p>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                                <p class="text-right">297</p>
+                            </div>
+                        </div> 
+                    </div> 
+                    <div id="chiase_ft">
+                        <div class="chiase_ft_item">
+                            <a href="https://www.facebook.com/khoangsanhaiphong.vn" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a>
+                        </div>
+                        <div class="chiase_ft_item">
+                            <a href="" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a>
+                        </div>
+                        <div class="chiase_ft_item">
+                            <a href="https://www.youtube.com/user/huukienhp" title="Youtube"><i class="fa fa-play"></i></a>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>    
+                </div>
+            </div>
+        </div> 
+</div> 
+<div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <marquee scrollamount="2" direction="right" behavior="scroll">
+            <ul id="tukhoa_fff">
+                                    <li><a href="" target="_blank" title="Acacia wood">Acacia wood</a>,&nbsp;</li>
+                                        <li><a href="" target="_blank" title="Khoáng sản Hải Phòng">Khoáng sản Hải Phòng</a>,&nbsp;</li>
+                                        <li><a href="" target="_blank" title="Khoáng sản Việt nam">Khoáng sản Việt nam</a>,&nbsp;</li>
+                                    
+            </ul>
+        </marquee>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            </div>   
+</div>                                                 
+<script type="text/javascript">
+// create the back to top button
+$('body').prepend('<a href="#" class="back-to-top">Back to Top</a>');
+
+var amountScrolled = 300;
+
+$(window).scroll(function() {
+    if ( $(window).scrollTop() > amountScrolled ) {
+        $('a.back-to-top').fadeIn('slow');
+    } else {
+        $('a.back-to-top').fadeOut('slow');
+    }
+});
+
+$('a.back-to-top, a.simple-back-to-top').click(function() {
+    $('html, body').animate({
+        scrollTop: 0
+    }, 700);
+    return false;
+});
+</script>  
+<script type='text/javascript'>window._sbzq||function(e){e._sbzq=[];var t=e._sbzq;t.push(["_setAccount",39201]);var n=e.location.protocol=="https:"?"https:":"http:";var r=document.createElement("script");r.type="text/javascript";r.async=true;r.src=n+"//static.subiz.com/public/js/loader.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)}(window);</script>                        
+        </div>
+    </div>
+</body>
+</html>
